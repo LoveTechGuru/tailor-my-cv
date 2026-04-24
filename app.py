@@ -316,7 +316,7 @@ DEFAULTS = {
     "jd_text": "",
     "mode": "ATS-Optimizer",
     "tailored_cv": "",
-    "payment_verified": False,
+    "payment_verified": True,
     "pay_order_id": "",
 }
 for k, v in DEFAULTS.items():
