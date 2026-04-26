@@ -1,8 +1,20 @@
-# --- TailorMyCV V2 Requirements ---
+# TailorMyCV V2 — Executive Edition  |  requirements.txt
+
+# Core
 streamlit>=1.35.0
+
+# Anthropic Claude API (stable)
 anthropic>=0.30.0
+
+# Word document generation
 python-docx>=1.1.2
+
+# PDF generation (Executive Edition)
+reportlab>=4.2.0
+
+# CV parsing
 PyPDF2>=3.0.1
 docx2txt>=0.8
+
+# Image support
 pillow>=10.0.0
-reportlab>=4.2.0
