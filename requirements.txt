@@ -1,18 +1,8 @@
-# ── TailorMyCV — requirements.txt ──────────────────────────
-# Install with: pip install -r requirements.txt
-
-# Core Framework
+# --- TailorMyCV V2 Requirements ---
 streamlit>=1.35.0
-
-# Anthropic Claude API
 anthropic>=0.30.0
-
-# Document Generation
 python-docx>=1.1.2
-
-# CV Parsing
 PyPDF2>=3.0.1
 docx2txt>=0.8
-
-# Utilities (already bundled with Python but pinned for cloud)
 pillow>=10.0.0
+reportlab>=4.2.0
