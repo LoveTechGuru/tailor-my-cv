@@ -332,7 +332,7 @@ p, li { color:var(--text-prime) !important; }
 # ════════════════════════════════════════════════════════════
 #  CONSTANTS
 # ════════════════════════════════════════════════════════════
-CLAUDE_MODEL = "claude-3-sonnet-20240229"   # Stable, widely-available Sonnet
+CLAUDE_MODEL = "claude-sonnet-4-5-20251001"   # Stable, widely-available Sonnet
 
 MODE_META = {
     "ATS-Optimizer": {
