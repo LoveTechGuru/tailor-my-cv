@@ -332,7 +332,7 @@ p, li { color:var(--text-prime) !important; }
 # ════════════════════════════════════════════════════════════
 #  CONSTANTS
 # ════════════════════════════════════════════════════════════
-CLAUDE_MODEL = "claude-sonnet-4-5-20251001"   # Stable, widely-available Sonnet
+CLAUDE_MODEL = "claude-haiku-4-5-20251001"  # Confirmed active model (April 2026)
 
 MODE_META = {
     "ATS-Optimizer": {
